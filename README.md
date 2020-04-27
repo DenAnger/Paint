@@ -9,7 +9,7 @@ works with
 
 ------
 
-<img src="https://github.com/DenAnger/Paint/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-04-28%20at%2000.00.07.png" width="300"> <img src="https://github.com/DenAnger/Paint/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-04-28%20at%2000.09.24.png" width="300">
+<img src="https://github.com/DenAnger/Paint/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-04-28%20at%2000.09.24.png" width="300"> <img src="https://github.com/DenAnger/Paint/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-04-28%20at%2000.00.07.png" width="300">
 <img src="https://github.com/DenAnger/Paint/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-04-28%20at%2000.09.31.png" width="300"> <img src="https://github.com/DenAnger/Paint/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20SE%20(2nd%20generation)%20-%202020-04-28%20at%2000.09.36.png" width="300">
 
 ------
@@ -31,4 +31,4 @@ Share your drawing in Social Media
 
 -----
 
-Referrence: https://www.raywenderlich.com/87899/make-simple-drawing-app-uikit-swift
+Referrence: https://www.raywenderlich.com/5895-uikit-drawing-tutorial-how-to-make-a-simple-drawing-app
