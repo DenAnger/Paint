@@ -77,9 +77,9 @@
 		6979701724337BCD002DDD10 /* Paint */ = {
 			isa = PBXGroup;
 			children = (
-				694031B724531335007FB4A8 /* Controllers */,
 				692DAF9E244892070055ECDD /* Models */,
-				6979702E24337C4A002DDD10 /* Storyboards */,
+				6979702E24337C4A002DDD10 /* Views */,
+				694031B724531335007FB4A8 /* Controllers */,
 				6979702C24337C32002DDD10 /* Support */,
 				6979702D24337C3B002DDD10 /* Sources */,
 			);
@@ -104,13 +104,13 @@
 			path = Sources;
 			sourceTree = "<group>";
 		};
-		6979702E24337C4A002DDD10 /* Storyboards */ = {
+		6979702E24337C4A002DDD10 /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				6979701E24337BCD002DDD10 /* Main.storyboard */,
 				6979702324337BD1002DDD10 /* LaunchScreen.storyboard */,
 			);
-			path = Storyboards;
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
