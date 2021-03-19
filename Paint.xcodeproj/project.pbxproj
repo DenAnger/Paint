@@ -80,20 +80,20 @@
 				692DAF9E244892070055ECDD /* Models */,
 				6979702E24337C4A002DDD10 /* Views */,
 				694031B724531335007FB4A8 /* Controllers */,
-				6979702C24337C32002DDD10 /* Support */,
+				6979702C24337C32002DDD10 /* Supports */,
 				6979702D24337C3B002DDD10 /* Sources */,
 			);
 			path = Paint;
 			sourceTree = "<group>";
 		};
-		6979702C24337C32002DDD10 /* Support */ = {
+		6979702C24337C32002DDD10 /* Supports */ = {
 			isa = PBXGroup;
 			children = (
 				6979701824337BCD002DDD10 /* AppDelegate.swift */,
 				6979701A24337BCD002DDD10 /* SceneDelegate.swift */,
 				6979702624337BD1002DDD10 /* Info.plist */,
 			);
-			path = Support;
+			path = Supports;
 			sourceTree = "<group>";
 		};
 		6979702D24337C3B002DDD10 /* Sources */ = {
@@ -140,7 +140,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1140;
-				LastUpgradeCheck = 1140;
+				LastUpgradeCheck = 1240;
 				ORGANIZATIONNAME = "Denis Abramov";
 				TargetAttributes = {
 					6979701424337BCD002DDD10 = {
@@ -240,6 +240,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -300,6 +301,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -334,7 +336,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = XJN9TW8RPS;
-				INFOPLIST_FILE = "$(SRCROOT)/Paint/Support/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Paint/Supports/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -352,7 +354,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = XJN9TW8RPS;
-				INFOPLIST_FILE = "$(SRCROOT)/Paint/Support/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Paint/Supports/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
